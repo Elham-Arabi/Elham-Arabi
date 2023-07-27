@@ -984,23 +984,13 @@ i {
     .electric {
         margin: 0, 5%;
     }
-    nav{
-        padding: 30px;
-        margin-bottom: 10px;
-    }
-
     header nav ul {
         display: none !important;
     }
-
-    .nav-light {
-        margin: 0 !important;
-    }
-
     .nav-light a {
         display: inline-block;
         position: absolute;
-        top: 25%;
+        top: 35%;
         left: 60%;
     }
     nav img {
@@ -1016,7 +1006,7 @@ i {
     }
 
     .nav-light {
-        margin: 15px auto;
+        margin: 15px 0;
     }
 
     input:checked+ul {
